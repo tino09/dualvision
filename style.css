@@ -344,7 +344,7 @@ blockquote p {
 }
 
 .header-home {
-  background: transparent;
+  background: white;
 /*box-shadow*/
   -webkit-box-shadow: none;
      -moz-box-shadow: none;
@@ -352,7 +352,7 @@ blockquote p {
 }
 
 .header-home .navigation a {
-  color: #fff;
+  color: rgb(10, 10, 10);
 }
 
 .top-slider {
@@ -804,6 +804,8 @@ blockquote p {
   margin-right: 40px;
   float: right;
 }
+
+
 
 /* *********************************************************
   Quotes Section 
@@ -1483,6 +1485,10 @@ footer p, footer a {
 .staff-content span {
   display: inline-block;
   margin-bottom: 10px;
+}
+
+.tablebody {
+  color: white;
 }
 
 .team-social {
